@@ -1,0 +1,7 @@
+C:\Users\Nanabhai\source\repos\LibraryManagementAPI\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.csproj.AssemblyReference.cache
+C:\Users\Nanabhai\source\repos\LibraryManagementAPI\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nanabhai\source\repos\LibraryManagementAPI\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.AssemblyInfoInputs.cache
+C:\Users\Nanabhai\source\repos\LibraryManagementAPI\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.AssemblyInfo.cs
+C:\Users\Nanabhai\source\repos\LibraryManagementAPI\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\Nanabhai\source\repos\LibraryManagementAPI\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nanabhai\source\repos\LibraryManagementAPI\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.MvcApplicationPartsAssemblyInfo.cache
